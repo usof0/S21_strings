@@ -2,7 +2,6 @@
 
 Implementation of the string.h library with additions.
 
-The russian version of the task can be found in the repository.
 
 
 ## Contents
